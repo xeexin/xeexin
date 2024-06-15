@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=150&section=header&text=HEEJIN%20&fontSize=100&animation=twinkling" />
 
 ## About
