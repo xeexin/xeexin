@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 ##
-<br> <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeexin&layout=compact)
-
+<br> <br/>
 ![HEEJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeexin&show_icons=true&theme=radical)
 
