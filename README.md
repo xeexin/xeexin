@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
-
-<a href="https://www.instagram.com/l_im_xeexin/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
-
-<a href="https://[www.instagram.com/l_im_xeexin/](https://www.instagram.com/shelter_from_the_storm__/)" target="_blank">
+<a href="https://www.instagram.com/shelter_from_the_storm__/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
