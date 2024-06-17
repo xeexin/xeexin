@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=150&section=header&text=HEEJIN%20&fontSize=100&animation=twinkling" />
 
 ## About
-<a href="https://www.notion.so/3a04cfbbb83f4b49891f8674f568a8fd?pvs=4" target="_blank">
+<a href="https://candied-bonsai-17b.notion.site/3a04cfbbb83f4b49891f8674f568a8fd?pvs=4" target="_blank">
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
