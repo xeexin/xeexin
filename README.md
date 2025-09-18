@@ -16,8 +16,6 @@
 
 - 🔭 현재 **백엔드 개발**에 집중하고 있습니다
 - 🌱 **알고리즘**과 **자료구조** 공부 중
-- 💡 **효율적인 코드**와 **최적화**에 관심이 많습니다
-- 🎯 목표: **플래티넘 티어** 달성하기
 
 ---
 
@@ -121,19 +119,6 @@
 | 🔧 **개발 도구** | 개발 효율성 향상 도구 | JavaScript, Node.js |
 
 </div>
-
----
-
-## 📫 Contact & Links
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xeexin)
-[![백준](https://img.shields.io/badge/백준-0A84FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDIwQzE1LjUyMjggMjAgMjAgMTUuNTIyOCAyMCAxMEMyMCA0LjQ3NzE1IDE1LjUyMjggMCAxMCAwQzQuNDc3MTUgMCAwIDQuNDc3MTUgMCAxMEMwIDE1LjUyMjggNC40NzcxNSAyMCAxMCAyMFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white)](https://www.acmicpc.net/user/xeexin0331)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xeexin0331@gmail.com)
-
-</div>
-
 
 ---
 
